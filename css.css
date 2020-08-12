@@ -1,0 +1,10 @@
+@media (min-width:500px) { 
+    .form-control{
+        padding-right: 80%;
+    }
+
+   
+}
+ body{
+        background-color: blueviolet;
+    }
